@@ -1,6 +1,6 @@
 # 4 Port Unmanaged Switch | Versitron
 
-Versitron’s **[4 port unmanaged switch](https://www.versitron.com/products/sg70460-4port-101001000-1g-sfp-fiber-optic-switch)** is a simple, reliable Ethernet networking solution designed for plug-and-play connectivity in small enterprise, industrial, and fiber-to-Ethernet applications. With four Ethernet ports and an optional SFP uplink, this switch provides basic connectivity without the complexity of managed features—ideal for straightforward network environments.
+Versitron’s **[4 port unmanaged switch](https://www.versitron.com/products/sg70460-4port-101001000-1g-sfp-fiber-optic-switch)** is a simple, reliable Ethernet networking solution designed for plug-and-play connectivity in small enterprise, industrial, and fiber-to-Ethernet applications. With four Ethernet ports and an optional SFP uplink, this switch provides basic connectivity without the complexity of managed features ideal for straightforward network environments.
 
 ---
 
@@ -65,7 +65,7 @@ Using a **4 port unmanaged switch** allows network administrators and users to:
 ## Frequently Asked Questions
 
 ### Do I need to configure this switch?
-No, this unmanaged switch operates immediately when connected—no configuration required.
+No, this unmanaged switch operates immediately when connected no configuration required.
 
 ### Does it support fiber connections?
 Yes, select versions include an SFP uplink port that supports both single-mode and multi-mode fiber modules.
